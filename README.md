@@ -189,9 +189,4 @@ The final version was handed off for implementation.
 - Stakeholder alignment  
 - Presenting workflows and solutions  
 
----
-
-## 📎 Visual Materials
-*(Insert your diagram or any supporting images here.)*
-
-[Identification Process Diagram](B2B_hotels_идентификация_git.png)
+B2B_hotels_идентификация_git.png
