@@ -190,5 +190,5 @@ The final version was handed off for implementation.
 - Presenting workflows and solutions  
 
 ---
-![Identification](identification.png)
+![Identification](B2B_hotels_идентификация_git.png)
 
