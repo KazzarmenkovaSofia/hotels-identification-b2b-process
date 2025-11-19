@@ -189,4 +189,6 @@ The final version was handed off for implementation.
 - Stakeholder alignment  
 - Presenting workflows and solutions  
 
-B2B_hotels_идентификация_git.png
+---
+![Identification](identification.png)
+
