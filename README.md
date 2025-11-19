@@ -194,7 +194,4 @@ The final version was handed off for implementation.
 ## 📎 Visual Materials
 *(Insert your diagram or any supporting images here.)*
 
-Example:
-
-```md
-![Identification Process Diagram](process-identification.png)
+[Identification Process Diagram](B2B_hotels_идентификация_git.png)
