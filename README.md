@@ -103,3 +103,98 @@
 - англоязычную версию README,
 - красивую инфографику для размещения на GitHub.
 
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+# B2B HOTELS: Customer Identification Process
+
+## 📌 Project Overview
+This project focused on designing a complete customer identification process for an internal operations team. The work included analyzing existing workflows, identifying key request streams, building BPMN 2.0 diagrams, aligning the process with SMEs, and creating the final operational procedure.
+
+The goal was to increase accuracy, reduce errors, and standardize the way identification-related requests are handled.
+
+---
+
+## 🚀 Project Stages
+
+### **1. Initial Analysis**
+- Reviewed typical employee and customer scenarios.  
+- Studied the existing identification rules for *Lifestyle* and *SME*.  
+- Assessed current tools, limitations, and operational capabilities.  
+
+**Outcome:** a clear understanding of gaps, inconsistencies, and improvement opportunities.
+
+---
+
+### **2. Identification of Key Streams**
+Three main request streams were defined:
+
+1. **Customer data changes**  
+2. **Financial questions**  
+3. **Actions and consultations related to specific bookings**
+
+**Outcome:** the structure for further BPMN modeling became clear and well-organized.
+
+---
+
+### **3. BPMN 2.0 Workflow Modeling**
+Created detailed BPMN diagrams describing:
+
+- step-by-step workflow logic,  
+- responsible roles,  
+- identification rules and decision points,  
+- exceptions and alternative flows.  
+
+**Outcome:** visual, standardized workflows ready for implementation and future automation.
+
+---
+
+### **4. Process Alignment**
+Aligned the new process with:
+
+- SME (subject matter experts),  
+- the operations team,  
+- related business units.  
+
+Improvements were made to ensure clarity, accuracy, and unified workflow rules.
+
+---
+
+### **5. Final Procedure Development**
+Prepared the final operational procedure that included:
+
+- step-by-step employee instructions,  
+- business rules for customer identification,  
+- workflow details for each stream,  
+- exception handling rules,  
+- documentation requirements.
+
+The final version was handed off for implementation.
+
+---
+
+## 🛠 Skills & Tools Used
+
+### **Hard Skills**
+- Business process analysis  
+- BPMN 2.0 modeling  
+- REST API (review and analysis of available endpoints)  
+- Technical documentation  
+- Requirements gathering and clarification  
+
+### **Soft Skills**
+- Cross-team communication  
+- Structured problem-solving  
+- Handling ambiguous situations  
+- Stakeholder alignment  
+- Presenting workflows and solutions  
+
+---
+
+## 📎 Visual Materials
+*(Insert your diagram or any supporting images here.)*
+
+Example:
+
+```md
+![Identification Process Diagram](process-identification.png)
